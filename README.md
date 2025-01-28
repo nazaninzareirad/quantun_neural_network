@@ -1,6 +1,7 @@
 # Optical Recognition of Handwritten Digits - Quantum GAN
 
 This repository contains a PyTorch implementation of a Quantum Generative Adversarial Network (QGAN) designed to generate handwritten digits based on the Optical Recognition of Handwritten Digits Dataset.
+For a more in depth description of the model's architecture refer to the report file.
 
 ## Overview
 
